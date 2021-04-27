@@ -103,7 +103,7 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 
 <distributionManagement>
   <repository>
-        <id>artifactory.dev</id>
+        <id>releases</id>
         <url>http://nexusfinal/repository/maven-releases/</url>
     </repository>
 </distributionManagement>
