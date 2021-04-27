@@ -102,12 +102,10 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 	</dependencies>
 
 <distributionManagement>
-  <repositories>
-    <repository>
+  <snapshotRepository>
         <id>artifactory.dev</id>
         <url>https://nexus/content/repositories/maven-releases</url>
-    </repository>
-  </repositories>
+    </snapshotRepository>
 </distributionManagement>
 	
 </project>
